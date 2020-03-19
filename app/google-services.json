@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64914990441",
+    "firebase_url": "https://stuactivity-3b3c8.firebaseio.com",
+    "project_id": "stuactivity-3b3c8",
+    "storage_bucket": "stuactivity-3b3c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64914990441:android:50bcd573dae99b821ec9f8",
+        "android_client_info": {
+          "package_name": "com.example.project_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64914990441-lsj6mv87gm8p3b5c8q6tul4mlb46bmae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_firebase",
+            "certificate_hash": "713bf26b4dc1523f8b8eebb8595aa04607a82424"
+          }
+        },
+        {
+          "client_id": "64914990441-pli6jeases7a44v8mvs7eu6hbrjfta5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYc6mn0S2Ju1B0RRTw7SSGcP7NsnjnJrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64914990441-pli6jeases7a44v8mvs7eu6hbrjfta5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
