@@ -7,6 +7,8 @@ import com.google.firebase.database.FirebaseDatabase
 import kotlinx.android.synthetic.main.activity_main.*
 
 
+
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -16,8 +18,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //get firebase database reference
-        var mRootRef = FirebaseDatabase.getInstance().reference
-        var mTopicsRef = mRootRef.child("Topic")
+       // var mRootRef = FirebaseDatabase.getInstance().reference
+        //var mTopicsRef = mRootRef.child("Topic")
         //var mDetailsRef = mRootRef.child("Detail")
 
         btn_save.setOnClickListener{
